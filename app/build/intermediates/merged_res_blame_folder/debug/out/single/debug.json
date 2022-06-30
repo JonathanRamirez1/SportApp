@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\layout_item_sport.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\layout\\item_sport.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_access_time.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\drawable\\ic_access_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_error_outline.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\drawable\\ic_error_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jonat\\Downloads\\Sports_init\\Sports\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

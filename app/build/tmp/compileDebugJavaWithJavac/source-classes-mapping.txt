@@ -1,0 +1,6 @@
+com/cursosandroidant/sports/databinding/ItemSportBinding.java
+ com.cursosandroidant.sports.databinding.ItemSportBinding
+com/cursosandroidant/sports/databinding/ActivityMainBinding.java
+ com.cursosandroidant.sports.databinding.ActivityMainBinding
+com/cursosandroidant/sports/BuildConfig.java
+ com.cursosandroidant.sports.BuildConfig
